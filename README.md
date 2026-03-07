@@ -1,2 +1,2 @@
-# Web-Development-Kicstar-Powered-by-Parogrfamming-Hero-
+# Web-Development-Kicstar-Powered-by-Parogramming-Hero-
 The Web Development Bootcamp powered by Programming Hero is an intensive training program designed to teach modern web development from beginner to advanced level. Students learn technologies like HTML, CSS, JavaScript, React, and backend tools while building real-world projects. The bootcamp focuses on hands-on learning, mentorship, and career .
